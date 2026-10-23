@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TiggoHelper</string>
+    <string name="accessibility_description">Автозапуск приложений на приборной панели после включения машины.</string>
+</resources>
